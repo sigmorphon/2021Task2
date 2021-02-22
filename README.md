@@ -70,3 +70,11 @@ We strongly encourage participants to submit their code to us along with their s
 
 ## Timeline
 TBD
+
+# This repository
+
+The code in this repository assumes python 3.9 is used. All dependencies are in the requirements.txt file and can be installed with pip, using the command:
+
+```
+pip install -r requirements.txt
+```
