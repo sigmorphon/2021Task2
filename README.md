@@ -3,7 +3,7 @@
 This task is a continuation and subset of the SIGMORPHON 2020 shared task 2. This year, participants will create a computational system that receives raw Bible text, and clusters each token for a given language into morphological paradigms. This is an important first step in building systems that can infer paradigms in an unsupervised fashion.
 
 ## Important Links
-- [Registration](https://github.com/sigmorphon/2021Task2)
+- [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfdkuA00Uw51KtDNNN_FJgICqOjq2Yx2fPPRzOCU7nb-XZ5YQ/viewform?usp=sf_link)
 - [Data](https://github.com/sigmorphon/2021Task2)
 - [Baseline](https://github.com/sigmorphon/2021Task2)
 
@@ -56,7 +56,7 @@ For example, given the above text, if we had an evaluation set of 2 paradigms:
 (I, me) - where both paradigms include only words that occur in the Bible text, we could first evaluate on just the first paradigm `(be, am)`.
 Next, we compute the F1 score of all found clusters against this paradigm; all result in zero except for the cluster consisting of `be, am`, for which F1 is 100%. (The score for this paradigm is, thus, `1*2/4=0.5`) So, the best matching pairs up `be, am` and the gold paradigm. We would then evaluate in the same way on the `(I, me)` paradigm, resulting in exactly the same score. We finally label each token according to its matched cluster: `gold_1_be, gold_1_am, gold_2_I, gold_2_me`, and `gold_1_be, gold_1_am, gold_2_I, gold_2_me`, for the predicted and gold words, respectively. A final F1 score is then computed according to these 2 sets, resulting in an F1 score of 100%.
 
-The evaluation will be done with the `eval.py` script [here](https://github.com/sigmorphon/2021Task2/evaluate/eval.py)
+The evaluation will be done with the `eval.py` script [here](https://github.com/sigmorphon/2021Task2/blob/master/evaluate/eval.py)
 
 ## Baseline
 We will compare submissions against a very basic baseline that functions as follows:
