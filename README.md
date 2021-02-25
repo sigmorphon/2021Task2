@@ -5,7 +5,7 @@ This task is a continuation and subset of the SIGMORPHON 2020 shared task 2. Thi
 ## Important Links
 - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfdkuA00Uw51KtDNNN_FJgICqOjq2Yx2fPPRzOCU7nb-XZ5YQ/viewform?usp=sf_link)
 - [Data](https://github.com/sigmorphon/2021Task2)
-- [Baseline](https://github.com/sigmorphon/2021Task2)
+- [Baseline](https://github.com/sigmorphon/2021Task2/blob/master/baseline/substring_cluster.py)
 
 ## Description
 ### Unsupervised Paradigm Clustering
@@ -45,16 +45,15 @@ In order to enable a fair comparison between systems, we don’t allow the use o
 ## Evaluation
 Evaluation will be done on up to 1000 paradigms per language. We will use best-match F1 score, which we compute as follows:
 1. Remove all clustered bible tokens that are not in the gold paradigms.
-2. Assign each combination of gold and predicted cluster (i.e., paradigm) the following score: F1 score of the prediction given the gold standard, multiplied by p/n, with p being the effective size of the gold paradigm, and n being the number of all forms in all gold paradigms.
+2. Assign each combination of gold and predicted cluster (i.e., paradigm) a score of the number of true positives for the prediction given the gold standard. This is equivalent to the number of overlapping forms between two paradigms.
 3. Find the best match between gold and predicted clusters given these scores.
-4. Assign every gold and predicted form a class label for the paradigm it belongs to, or is matched with (e.g. gold_cluster_1).
+4. Assign every gold and predicted form a class label for the paradigm it belongs to, or is matched with in step 3 (e.g. gold_cluster_1).
   - Assign unmatched paradigms a label representing the spurious cluster it belongs to (e.g. predicted_cluster_1).
-5. Compute the F1 score between gold and predicted forms.
+5. Compute the F1 score between the resulting labeled gold and predicted forms.
 
 For example, given the above text, if we had an evaluation set of 2 paradigms:
-(be, am)
-(I, me) - where both paradigms include only words that occur in the Bible text, we could first evaluate on just the first paradigm `(be, am)`.
-Next, we compute the F1 score of all found clusters against this paradigm; all result in zero except for the cluster consisting of `be, am`, for which F1 is 100%. (The score for this paradigm is, thus, `1*2/4=0.5`) So, the best matching pairs up `be, am` and the gold paradigm. We would then evaluate in the same way on the `(I, me)` paradigm, resulting in exactly the same score. We finally label each token according to its matched cluster: `gold_1_be, gold_1_am, gold_2_I, gold_2_me`, and `gold_1_be, gold_1_am, gold_2_I, gold_2_me`, for the predicted and gold words, respectively. A final F1 score is then computed according to these 2 sets, resulting in an F1 score of 100%.
+`(be, am) (I, me)` - where both paradigms include only words that occur in the Bible text, we could first evaluate on just the first paradigm `(be, am)`.
+Next, we compute the true positives of all found clusters against this paradigm; all result in zero except for the cluster consisting of `be, am`, for which we have 2. So, the best matching pairs up `be, am` and the gold paradigm. We would then evaluate in the same way on the `(I, me)` paradigm, resulting in exactly the same score. We finally label each token according to its matched cluster: `gold_1_be, gold_1_am, gold_2_I, gold_2_me`, and `gold_1_be, gold_1_am, gold_2_I, gold_2_me`, for the predicted and gold words, respectively. A final F1 score is then computed for the set of predicted forms given the set of gold standard forms, resulting in an F1 score of 100%.
 
 The evaluation will be done with the `eval.py` script [here](https://github.com/sigmorphon/2021Task2/blob/master/evaluate/eval.py)
 
@@ -69,7 +68,27 @@ There are two bonus tasks: *cell clustering*, that is, additionally sorting foun
 We strongly encourage participants to submit their code to us along with their system descriptions. The code will be provided to participants of the next years' shared task, who will be working on the next stage: Paradigm Cell Clustering.
 
 ## Timeline
-TBD
+- March 1, 2021: Dev Data released.
+- March 1, 2021: Baseline code and results released.
+- April 17, 2021: Test Data released.
+- May 1, 2021: Participants' submissions due.
+- May 8, 2021: Participants' draft system description papers due.
+- May 15, 2021: Participants' camera-ready system description papers due.
+
+## Organizers
+
+  Adam Wiemerslage, University of Colorado Boulder  
+  Arya McCarthy, Johns Hopkins University  
+  Alexander Erdmann, Ohio State University  
+  Manex Agirrezabal, University of Copenhagen  
+  Garrett Nicolai, University of British Columbia  
+  Miikka Silfverberg, University of British Columbia  
+  Mans Hulden, University of Colorado Boulder  
+  Katharina Kann, University of Colorado Boulder  
+
+
+## Contact
+Please contact us with any questions at adam.wiemerslage@colorado.edu
 
 # This repository
 

@@ -1,5 +1,5 @@
-import networkx as nx
-from networkx.algorithms.bipartite.matching import minimum_weight_full_matching
+from scipy.optimize import linear_sum_assignment
+import numpy as np
 
 from paradigm_types import Form, Paradigm
 from argparse import ArgumentParser
@@ -62,53 +62,42 @@ class Evaluator:
         all_ref_set.update(*self.reference_dict.values())
         # Remove the predicted bible words that are not in the gold set
         pred_dict = self._prune_preds(pred_dict, all_ref_set)
-
-        graph = nx.Graph()
         pred_nodes = frozenset(pred_dict.keys())
         ref_nodes = frozenset(self.reference_dict.keys())
-        graph.add_nodes_from(pred_nodes)
-        graph.add_nodes_from(ref_nodes)
+        # Cost matrix, where cost is the overlap between paradigms.
+        mat = np.empty([len(ref_nodes), len(pred_nodes)])
 
-        # 2. get pairwise f1's
-        ref_size = sum([len(r) for r in self.reference_dict.values()])
-        for ref_k, ref_set in self.reference_dict.items():
-            for pred_k, pred_set in pred_dict.items():
+        # For mapping matrix indices back to the pred keys
+        pred_key_map = {i: k for i, (k, s) in enumerate(pred_dict.items())}
+        ref_key_map = {i: k for i, (k, s) in enumerate(self.reference_dict.items())}
+        # 2. get pairwise true positives
+        for i, (ref_k, ref_set) in enumerate(self.reference_dict.items()):
+            for j, (pred_k, pred_set) in enumerate(pred_dict.items()):
                 # TP are the intersection of the predicted words, and gold words in a cluster
                 true_pos = len(ref_set & pred_set)
+                mat[i][j] = -true_pos
 
-                if true_pos > 0:
-                    _, _, f1 = self._get_metrics(true_pos, len(pred_set), len(ref_set))
-                    # weigh the F1's by how much they will contribute to overall f1.
-                    weight = len(ref_set) / ref_size
-                    f1 = f1*weight
-                    graph.add_edge(pred_k, ref_k, weight=-f1)
-                else:
-                    graph.add_edge(pred_k, ref_k, weight=0)
-
-        # 3. Find pairs of nodes that maximize the weighted F1 (or minimize inverse)
-        matches = minimum_weight_full_matching(graph, pred_nodes)
+        # 3. Find pairs of nodes that maximize the # of true positives (or minimize inverse)
+        ref_ind, pred_ind = linear_sum_assignment(mat)
 
         # 4. convert each sample into lemma_form, where lemma is a class_id
         #    for the form from the set keys in the cluster dicts.
+        #
         # refParadigmId_word for all words in ref
         flat_refs = [f"{k}_{w}" for k, words in self.reference_dict.items() for w in words]
         flat_preds = []
-        for pred_node, ref_node in matches.items():
-            if pred_node in pred_nodes:
-                # refParadigmId_word for all aligned words in preds
-                flat_preds.extend([f"{ref_node}_{w}" for w in pred_dict[pred_node]])
-                # Remove from pred_dict, so we can loop over the leftovers
-                pred_dict.pop(pred_node)
+        for i, j in zip(ref_ind, pred_ind):
+            # refParadigmId_word for all aligned words in preds
+            flat_preds.extend([f"{ref_key_map[i]}_{w}" for w in pred_dict[pred_key_map[j]]])
+            # Remove from pred_dict, so we can loop over the leftovers
+            pred_dict.pop(pred_key_map[j])
 
         # Assign the unmatched predictions a label from the pred set
         for k, words in pred_dict.items():
             flat_preds.extend([f"{k}_{w}" for w in words])
 
-        flat_preds = set(flat_preds)
-        flat_refs = set(flat_refs)
         # 5. now compute F1 between the labeled preds, and labeled refs
-        true_pos = len(flat_refs & flat_preds)
-
+        true_pos = len(set(flat_preds) & set(flat_refs))
         prec, rec, f1 = self._get_metrics(true_pos, len(flat_preds), len(flat_refs))
 
         return {

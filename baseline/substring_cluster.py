@@ -48,10 +48,12 @@ def main(bible_fn: str, output_fn: str, n: int):
     #    with exactly those words)
     #
     # For quick lookup
-    unique_clusters_set = set(tuple(x) for x in ngram2words.values())
+    unique_clusters_set = set()
     unique_clusters = {}
     for ngram, words in ngram2words.items():
-        if words not in unique_clusters_set:
+        words_tup = tuple(words)
+        if words_tup not in unique_clusters_set:
+            unique_clusters_set.add(words_tup)
             unique_clusters[ngram] = words
         else:
             # Remove the ngrams from the word dict for later checking in step 3
