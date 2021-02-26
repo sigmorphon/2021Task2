@@ -20,7 +20,7 @@ For each language, the tokenized Bible (from the JHU Bible corpus) in that langu
 The output for each language should contain one line per token. If the same token appears in multiple paradigm clusters due to a process like homophony, it should appear on multiple lines (once per paradigm). Identical tokens within a paradigm due to syncretism, however, do not need to be listed - the evaluation will ignore syncretic forms. Paradigms should be separated by an extra newline, denoting a new paradigm cluster. Also note that our gold standard does not contain any forms consisting of multiple tokens separated by white space. This means that, e.g., the German form `ziehst zusammen`, will not be used in evaluation.
 
 For example, if the tokenized Bible text is:
-  `" peace be with you ! I am sending you . "`, then the output format is:
+  `" peace be with you ! as the father has sent me , I am sending you . "`, then the output format is:
 
     peace  
 
@@ -29,9 +29,18 @@ For example, if the tokenized Bible text is:
 
     with  
 
-    you  
+    you
+
+    as
+
+    the  
+
+    father  
+
+    has
 
     sent  
+    sending
 
     me  
     I  
