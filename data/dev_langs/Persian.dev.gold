@@ -1,0 +1,509 @@
+ایستادن	ایستاد	V;3;SG;PST
+ایستادن	ایستادید	V;2;PL;PST
+ایستادن	ایستادن	V;3;PL;PST;COL
+ایستادن	ایستادند	V;3;PL;PST
+ایستادن	ایستاده	V;3;SG;PRS;PRF;COL
+ایستادن	بایست	V;2;SG;IMP
+ایستادن	بایستید	V;2;PL;IMP
+
+یافتن	یابی	V;2;SG;PFV
+یافتن	یابید	V;2;PL;PFV
+یافتن	یابد	V;3;SG;PFV
+یافتن	یابیم	V;1;PL;PFV
+یافتن	یابم	V;1;SG;PFV
+یافتن	یابند	V;3;PL;PFV
+یافتن	یافتی	V;2;SG;PST
+یافتن	یافت	V;3;SG;PST
+یافتن	یافتید	V;2;PL;PST
+یافتن	یافتیم	V;1;PL;PST
+یافتن	یافتم	V;1;SG;PST
+یافتن	یافتن	V;3;PL;PST;COL
+یافتن	یافتند	V;3;PL;PST
+یافتن	یافته	V;3;SG;PRS;PRF;COL
+یافتن	بیابید	V;2;PL;IMP
+یافتن	بیابد	V;3;SG;SBJV;PRS
+یافتن	بیابیم	V;1;PL;SBJV;PRS
+یافتن	بیابم	V;1;SG;SBJV;PRS
+یافتن	بیابند	V;3;PL;SBJV;PRS
+
+افکندن	افکنید	V;2;PL;PFV
+افکندن	افکند	V;3;SG;PFV
+افکندن	افکندند	V;3;PL;PST
+افکندن	افکنده	V;3;SG;PRS;PRF;COL
+افکندن	افکنم	V;1;SG;PFV
+افکندن	افکنند	V;3;PL;PFV
+
+باختن	ببازد	V;3;SG;SBJV;PRS
+
+بافتن	بافتند	V;3;PL;PST
+بافتن	بافته	V;3;SG;PRS;PRF;COL
+
+بخشیدن	ببخش	V;2;SG;IMP
+بخشیدن	ببخشید	V;2;PL;IMP
+بخشیدن	ببخشد	V;3;SG;SBJV;PRS
+بخشیدن	ببخشم	V;1;SG;SBJV;PRS
+بخشیدن	بخشی	V;2;SG;PFV
+بخشیدن	بخشید	V;2;PL;PFV
+بخشیدن	بخشیدی	V;2;SG;PST
+بخشیدن	بخشد	V;3;SG;PFV
+بخشیدن	بخشیدم	V;1;SG;PST
+بخشیدن	بخشیدن	V;3;PL;PST;COL
+بخشیدن	بخشیدند	V;3;PL;PST
+بخشیدن	بخشیده	V;3;SG;PRS;PRF;COL
+بخشیدن	بخشیم	V;1;PL;PFV
+بخشیدن	بخشم	V;1;SG;PFV
+بخشیدن	بخشند	V;3;PL;PFV
+بخشیدن	بخشنده	V;V.PTCP;PRS
+
+برخاستن	برخاست	V;3;SG;PST
+برخاستن	برخاستم	V;1;SG;PST
+برخاستن	برخاستن	V;3;PL;PST;COL
+برخاستن	برخاستند	V;3;PL;PST
+برخاستن	برخاسته	V;3;SG;PRS;PRF;COL
+برخاستن	برخیزید	V;2;PL;PFV
+برخاستن	برخیزد	V;3;SG;PFV
+برخاستن	برخیزم	V;1;SG;PFV
+
+بریدن	ببر	V;2;SG;IMP
+بریدن	ببری	V;2;SG;SBJV;PRS
+بریدن	ببرید	V;2;PL;IMP
+بریدن	ببرد	V;3;SG;SBJV;PRS
+بریدن	ببریم	V;1;PL;SBJV;PRS
+بریدن	ببرم	V;1;SG;SBJV;PRS
+بریدن	ببرند	V;3;PL;SBJV;PRS
+بریدن	بری	V;2;SG;PFV
+بریدن	برید	V;2;PL;PFV
+بریدن	برد	V;3;SG;PFV
+بریدن	بریدند	V;3;PL;PST
+بریدن	بریده	V;3;SG;PRS;PRF;COL
+بریدن	بریم	V;1;PL;PFV
+بریدن	برم	V;1;SG;PFV
+بریدن	برین	V;2;PL;PFV;COL
+بریدن	برند	V;3;PL;PFV
+بریدن	بره	V;3;SG;PFV;COL
+
+برگشادن	برگشاید	V;3;SG;PFV
+
+برگشودن	برگشاید	V;3;SG;PFV
+برگشودن	برگشود	V;3;SG;PST
+
+بستن	ببند	V;2;SG;IMP
+بستن	ببندی	V;2;SG;SBJV;PRS
+بستن	ببندید	V;2;PL;IMP
+بستن	ببندد	V;3;SG;SBJV;PRS
+بستن	ببندند	V;3;PL;SBJV;PRS
+بستن	بست	V;3;SG;PST
+بستن	بستیم	V;1;PL;PST
+بستن	بستم	V;1;SG;PST
+بستن	بستند	V;3;PL;PST
+بستن	بسته	V;3;SG;PRS;PRF;COL
+بستن	بندید	V;2;PL;PFV
+بستن	بندد	V;3;SG;PFV
+بستن	بندم	V;1;SG;PFV
+بستن	بندند	V;3;PL;PFV
+بستن	بنده	V;3;SG;PFV;COL
+
+بوییدن	بوییدن	V;3;PL;PST;COL
+
+بوسیدن	ببوسد	V;3;SG;SBJV;PRS
+بوسیدن	ببوسم	V;1;SG;SBJV;PRS
+بوسیدن	بوسید	V;2;PL;PFV
+بوسیدن	بوسیدن	V;3;PL;PST;COL
+بوسیدن	بوسه	V;3;SG;PFV;COL
+
+پیچیدن	بپیچ	V;2;SG;IMP
+پیچیدن	پیچید	V;2;PL;PFV
+پیچیدن	پیچیدند	V;3;PL;PST
+پیچیدن	پیچیده	V;3;SG;PRS;PRF;COL
+
+پریدن	پرنده	V;V.PTCP;PRS
+
+پرستیدن	بپرست	V;2;SG;IMP
+پرستیدن	بپرستید	V;2;PL;IMP
+پرستیدن	بپرستد	V;3;SG;SBJV;PRS
+پرستیدن	بپرستم	V;1;SG;SBJV;PRS
+پرستیدن	بپرستند	V;3;PL;SBJV;PRS
+پرستیدن	پرستید	V;2;PL;PFV
+پرستیدن	پرستیده	V;3;SG;PRS;PRF;COL
+
+پرسیدن	بپرس	V;2;SG;IMP
+پرسیدن	بپرسید	V;2;PL;IMP
+پرسیدن	بپرسد	V;3;SG;SBJV;PRS
+پرسیدن	بپرسیم	V;1;PL;SBJV;PRS
+پرسیدن	بپرسم	V;1;SG;SBJV;PRS
+پرسیدن	بپرسند	V;3;PL;SBJV;PRS
+پرسیدن	پرسید	V;2;PL;PFV
+پرسیدن	پرسیدم	V;1;SG;PST
+پرسیدن	پرسیدند	V;3;PL;PST
+پرسیدن	پرسیده	V;3;SG;PRS;PRF;COL
+
+پنداشتن	بپندارید	V;2;PL;IMP
+پنداشتن	پندارد	V;3;SG;PFV
+پنداشتن	پنداشتی	V;2;SG;PST
+پنداشتن	پنداشتند	V;3;PL;PST
+
+پیوستن	بپیوندید	V;2;PL;IMP
+پیوستن	بپیوندند	V;3;PL;SBJV;PRS
+پیوستن	پیوست	V;3;SG;PST
+پیوستن	پیوستیم	V;1;PL;PST
+پیوستن	پیوستند	V;3;PL;PST
+پیوستن	پیوسته	V;3;SG;PRS;PRF;COL
+پیوستن	پیوندی	V;2;SG;PFV
+پیوستن	پیوندد	V;3;SG;PFV
+
+پوشیدن	بپوشید	V;2;PL;IMP
+پوشیدن	بپوشد	V;3;SG;SBJV;PRS
+پوشیدن	بپوشیم	V;1;PL;SBJV;PRS
+پوشیدن	پوشید	V;2;PL;PFV
+پوشیدن	پوشیده	V;3;SG;PRS;PRF;COL
+
+تراشیدن	بتراشد	V;3;SG;SBJV;PRS
+تراشیدن	بتراشند	V;3;PL;SBJV;PRS
+تراشیدن	تراشید	V;2;PL;PFV
+تراشیدن	تراشیده	V;3;SG;PRS;PRF;COL
+
+تنیدن	تنی	V;2;SG;PFV
+تنیدن	تند	V;3;SG;PFV
+
+چیدن	بچیند	V;3;SG;SBJV;PRS
+چیدن	چید	V;3;SG;PST
+چیدن	چیدن	V;3;PL;PST;COL
+چیدن	چیدند	V;3;PL;PST
+چیدن	چیده	V;3;SG;PRS;PRF;COL
+
+چسبیدن	بچسب	V;2;SG;IMP
+چسبیدن	بچسبید	V;2;PL;IMP
+چسبیدن	چسبید	V;2;PL;PFV
+
+چشیدن	بچشد	V;3;SG;SBJV;PRS
+چشیدن	چشید	V;2;PL;PFV
+چشیدن	چشیدند	V;3;PL;PST
+چشیدن	چشم	V;1;SG;PFV
+
+چیندن	بچیند	V;3;SG;SBJV;PRS
+
+خاستن	خاست	V;3;SG;PST
+
+خریدن	بخری	V;2;SG;SBJV;PRS
+خریدن	بخرید	V;2;PL;IMP
+خریدن	بخرد	V;3;SG;SBJV;PRS
+خریدن	بخریم	V;1;PL;SBJV;PRS
+خریدن	بخرند	V;3;PL;SBJV;PRS
+خریدن	خرید	V;2;PL;PFV
+خریدن	خریدی	V;2;SG;PST
+خریدن	خرد	V;3;SG;PFV
+خریدن	خریدند	V;3;PL;PST
+خریدن	خریده	V;3;SG;PRS;PRF;COL
+
+خزیدن	خزنده	V;V.PTCP;PRS
+
+خندیدن	خندید	V;2;PL;PFV
+خندیدن	خندیدند	V;3;PL;PST
+
+خندسن	خندید	V;2;PL;PFV
+
+خواستن	بخوان	V;3;PL;SBJV;PRS;COL
+خواستن	بخواه	V;2;SG;IMP
+خواستن	بخواهی	V;2;SG;SBJV;PRS
+خواستن	بخواهید	V;2;PL;IMP
+خواستن	بخواهد	V;3;SG;SBJV;PRS
+خواستن	بخواهیم	V;1;PL;SBJV;PRS
+خواستن	بخواهم	V;1;SG;SBJV;PRS
+خواستن	بخواهند	V;3;PL;SBJV;PRS
+خواستن	خواست	V;3;SG;PST
+خواستن	خواستید	V;2;PL;PST
+خواستن	خواستیم	V;1;PL;PST
+خواستن	خواستم	V;1;SG;PST
+خواستن	خواستند	V;3;PL;PST
+خواستن	خواسته	V;3;SG;PRS;PRF;COL
+خواستن	خواهی	V;2;SG;PFV
+خواستن	خواهید	V;2;PL;PFV
+خواستن	خواهد	V;3;SG;PFV
+خواستن	خواهیم	V;1;PL;PFV
+خواستن	خواهم	V;1;SG;PFV
+خواستن	خواهند	V;3;PL;PFV
+
+خواندن	بخوان	V;2;SG;IMP
+خواندن	بخوانید	V;2;PL;IMP
+خواندن	بخواند	V;3;SG;SBJV;PRS
+خواندن	بخوانند	V;3;PL;SBJV;PRS
+خواندن	خواند	V;3;SG;PFV
+خواندن	خواندیم	V;1;PL;PST
+خواندن	خواندن	V;NFIN
+خواندن	خواندند	V;3;PL;PST
+خواندن	خوانده	V;V.PTCP;PST
+خواندن	خواننده	V;V.PTCP;PRS
+خواندن	خونی	V;2;SG;PFV;COL
+
+خوردن	بخور	V;2;SG;IMP
+خوردن	بخوری	V;2;SG;SBJV;PRS
+خوردن	بخورید	V;2;PL;IMP
+خوردن	بخورد	V;3;SG;SBJV;PRS
+خوردن	بخوریم	V;1;PL;SBJV;PRS
+خوردن	بخورم	V;1;SG;SBJV;PRS
+خوردن	بخورند	V;3;PL;SBJV;PRS
+خوردن	خورد	V;3;SG;PFV
+خوردن	خوردید	V;2;PL;PST
+خوردن	خوردیم	V;1;PL;PST
+خوردن	خوردم	V;1;SG;PST
+خوردن	خوردن	V;3;PL;PST;COL
+خوردن	خوردند	V;3;PL;PST
+خوردن	خورده	V;3;SG;PRS;PRF;COL
+
+دیدن	ببین	V;2;SG;IMP
+دیدن	ببینی	V;2;SG;SBJV;PRS
+دیدن	ببینید	V;2;PL;IMP
+دیدن	ببیند	V;3;SG;SBJV;PRS
+دیدن	ببینیم	V;1;PL;SBJV;PRS
+دیدن	ببینم	V;1;SG;SBJV;PRS
+دیدن	ببینند	V;3;PL;SBJV;PRS
+دیدن	بینید	V;2;PL;PFV
+دیدن	بیند	V;3;SG;PFV
+دیدن	بینیم	V;1;PL;PFV
+دیدن	بینند	V;3;PL;PFV
+دیدن	دیدی	V;2;SG;PST
+دیدن	دید	V;3;SG;PST
+دیدن	دیدید	V;2;PL;PST
+دیدن	دیدیم	V;1;PL;PST
+دیدن	دیدم	V;1;SG;PST
+دیدن	دیدن	V;3;PL;PST;COL
+دیدن	دیدند	V;3;PL;PST
+دیدن	دیده	V;3;SG;PRS;PRF;COL
+
+دزدیدن	بدزدند	V;3;PL;SBJV;PRS
+دزدیدن	دزدی	V;2;SG;PFV
+دزدیدن	دزدیدن	V;3;PL;PST;COL
+دزدیدن	دزدیدند	V;3;PL;PST
+
+دمیدن	بدمد	V;3;SG;SBJV;PRS
+دمیدن	دمی	V;2;SG;PFV
+دمیدن	دمید	V;2;PL;PFV
+
+رختن	بریزند	V;3;PL;SBJV;PRS
+رختن	رخت	V;3;SG;PST
+
+رسیدن	برسی	V;2;SG;SBJV;PRS
+رسیدن	برسید	V;2;PL;IMP
+رسیدن	برسد	V;3;SG;SBJV;PRS
+رسیدن	برسیم	V;1;PL;SBJV;PRS
+رسیدن	برسند	V;3;PL;SBJV;PRS
+رسیدن	رسید	V;2;PL;PFV
+رسیدن	رسیدی	V;2;SG;PST
+رسیدن	رسد	V;3;SG;PFV
+رسیدن	رسیدیم	V;1;PL;PST
+رسیدن	رسیدن	V;3;PL;PST;COL
+رسیدن	رسیدند	V;3;PL;PST
+رسیدن	رسیده	V;3;SG;PRS;PRF;COL
+رسیدن	رسم	V;1;SG;PFV
+
+رقصیدن	رقصید	V;2;PL;PFV
+
+زدن	بزن	V;2;SG;IMP
+زدن	بزنید	V;2;PL;IMP
+زدن	بزند	V;3;SG;SBJV;PRS
+زدن	بزنم	V;1;SG;SBJV;PRS
+زدن	بزنند	V;3;PL;SBJV;PRS
+زدن	زد	V;3;SG;PST
+زدن	زدید	V;2;PL;PST
+زدن	زدیم	V;1;PL;PST
+زدن	زدن	V;3;PL;PST;COL
+زدن	زدند	V;3;PL;PST
+زدن	زده	V;3;SG;PRS;PRF;COL
+زدن	زنی	V;2;SG;PFV
+زدن	زند	V;3;SG;PFV
+زدن	زنیم	V;1;PL;PFV
+زدن	زنند	V;3;PL;PFV
+
+ستدن	بستاند	V;3;SG;SBJV;PRS
+ستدن	ستاند	V;3;SG;PFV
+ستدن	ستد	V;3;SG;PST
+ستدن	ستونی	V;2;SG;PFV;COL
+
+سریدن	سری	V;2;SG;PFV
+سریدن	سرد	V;3;SG;PFV
+سریدن	سرم	V;1;SG;PFV
+
+صبر کردن	ی	V;2;SG;PFV
+صبر کردن	بید	V;2;PL;IMP
+صبر کردن	بد	V;3;SG;SBJV;PRS
+صبر کردن	بیم	V;1;PL;SBJV;PRS
+صبر کردن	بین	V;2;PL;IMP;COL
+صبر کردن	بن	V;3;PL;SBJV;PRS;COL
+صبر کردن	بند	V;3;PL;SBJV;PRS
+صبر کردن	به	V;3;SG;SBJV;PRS;COL
+صبر کردن	صبر	V;3;SG;PST
+
+فشردن	فشاریم	V;1;PL;PFV
+فشردن	فشارم	V;1;SG;PFV
+فشردن	فشرد	V;3;SG;PST
+فشردن	فشردند	V;3;PL;PST
+فشردن	فشرده	V;3;SG;PRS;PRF;COL
+
+فهمیدن	بفهمید	V;2;PL;IMP
+فهمیدن	بفهمم	V;1;SG;SBJV;PRS
+فهمیدن	بفهمند	V;3;PL;SBJV;PRS
+فهمیدن	فهمی	V;2;SG;PFV
+فهمیدن	فهمید	V;2;PL;PFV
+
+کاشتن	بکارد	V;3;SG;SBJV;PRS
+کاشتن	کاری	V;2;SG;PFV
+کاشتن	کارنده	V;V.PTCP;PRS
+کاشتن	کاشت	V;3;SG;PST
+کاشتن	کاشتیم	V;1;PL;PST
+کاشتن	کاشتم	V;1;SG;PST
+کاشتن	کاشته	V;3;SG;PRS;PRF;COL
+
+کشیدن	بکشی	V;2;SG;SBJV;PRS
+کشیدن	بکشید	V;2;PL;IMP
+کشیدن	بکشد	V;3;SG;SBJV;PRS
+کشیدن	بکشیم	V;1;PL;SBJV;PRS
+کشیدن	بکشند	V;3;PL;SBJV;PRS
+کشیدن	کشید	V;2;PL;PFV
+کشیدن	کشد	V;3;SG;PFV
+کشیدن	کشیدید	V;2;PL;PST
+کشیدن	کشیدیم	V;1;PL;PST
+کشیدن	کشیدم	V;1;SG;PST
+کشیدن	کشیدن	V;3;PL;PST;COL
+کشیدن	کشیدند	V;3;PL;PST
+کشیدن	کشیده	V;3;SG;PRS;PRF;COL
+کشیدن	کشند	V;3;PL;PFV
+کشیدن	کشنده	V;V.PTCP;PRS
+
+کوبیدن	بکوبید	V;2;PL;IMP
+کوبیدن	بکوبد	V;3;SG;SBJV;PRS
+کوبیدن	کوبید	V;2;PL;PFV
+کوبیدن	کوبد	V;3;SG;PFV
+
+گداختن	گداخته	V;3;SG;PRS;PRF;COL
+
+گذاشتن	بگذار	V;2;SG;IMP
+گذاشتن	بگذاری	V;2;SG;SBJV;PRS
+گذاشتن	بگذارید	V;2;PL;IMP
+گذاشتن	بگذارد	V;3;SG;SBJV;PRS
+گذاشتن	بگذاریم	V;1;PL;SBJV;PRS
+گذاشتن	بگذارم	V;1;SG;SBJV;PRS
+گذاشتن	بگذارند	V;3;PL;SBJV;PRS
+گذاشتن	گذارد	V;3;SG;PFV
+گذاشتن	گذارند	V;3;PL;PFV
+گذاشتن	گذاشتی	V;2;SG;PST
+گذاشتن	گذاشت	V;3;SG;PST
+گذاشتن	گذاشتید	V;2;PL;PST
+گذاشتن	گذاشتم	V;1;SG;PST
+گذاشتن	گذاشتن	V;3;PL;PST;COL
+گذاشتن	گذاشتند	V;3;PL;PST
+گذاشتن	گذاشته	V;3;SG;PRS;PRF;COL
+
+گشادن	بگشایی	V;2;SG;SBJV;PRS
+گشادن	بگشایید	V;2;PL;IMP
+گشادن	بگشاید	V;3;SG;SBJV;PRS
+گشادن	بگشایم	V;1;SG;SBJV;PRS
+گشادن	بگشایند	V;3;PL;SBJV;PRS
+گشادن	گشاده	V;3;SG;PRS;PRF;COL
+
+گشودن	بگشایی	V;2;SG;SBJV;PRS
+گشودن	بگشایید	V;2;PL;IMP
+گشودن	بگشاید	V;3;SG;SBJV;PRS
+گشودن	بگشایم	V;1;SG;SBJV;PRS
+گشودن	بگشایند	V;3;PL;SBJV;PRS
+گشودن	گشود	V;3;SG;PST
+گشودن	گشودیم	V;1;PL;PST
+گشودن	گشودن	V;3;PL;PST;COL
+گشودن	گشودند	V;3;PL;PST
+گشودن	گشوده	V;3;SG;PRS;PRF;COL
+
+مالیدن	مالی	V;2;SG;PFV
+مالیدن	مالید	V;2;PL;PFV
+
+ماندن	بمان	V;2;SG;IMP
+ماندن	بمانی	V;2;SG;SBJV;PRS
+ماندن	بمانید	V;2;PL;IMP
+ماندن	بماند	V;3;SG;SBJV;PRS
+ماندن	بمانیم	V;1;PL;SBJV;PRS
+ماندن	بمانم	V;1;SG;SBJV;PRS
+ماندن	بمانند	V;3;PL;SBJV;PRS
+ماندن	ماندی	V;2;SG;PST
+ماندن	ماند	V;3;SG;PFV
+ماندن	ماندیم	V;1;PL;PST
+ماندن	ماندم	V;1;SG;PST
+ماندن	ماندن	V;NFIN
+ماندن	ماندند	V;3;PL;PST
+ماندن	مانده	V;V.PTCP;PST
+ماندن	مانیم	V;1;PL;PFV
+ماندن	مانند	V;3;PL;PFV
+
+مانستن	بمان	V;2;SG;IMP
+مانستن	بمانی	V;2;SG;SBJV;PRS
+مانستن	بمانید	V;2;PL;IMP
+مانستن	بماند	V;3;SG;SBJV;PRS
+مانستن	بمانیم	V;1;PL;SBJV;PRS
+مانستن	بمانم	V;1;SG;SBJV;PRS
+مانستن	بمانند	V;3;PL;SBJV;PRS
+مانستن	ماند	V;3;SG;PFV
+مانستن	مانیم	V;1;PL;PFV
+مانستن	مانند	V;3;PL;PFV
+
+مردن	بمیرد	V;3;SG;SBJV;PRS
+مردن	بمیریم	V;1;PL;SBJV;PRS
+مردن	بمیرم	V;1;SG;SBJV;PRS
+مردن	مردی	V;2;SG;PST
+مردن	مرد	V;3;SG;PST
+مردن	مردیم	V;1;PL;PST
+مردن	مردم	V;1;SG;PST
+مردن	مردن	V;3;PL;PST;COL
+مردن	مردند	V;3;PL;PST
+مردن	مرده	V;3;SG;PRS;PRF;COL
+
+مکیدن	مکن	V;3;PL;PFV;COL
+
+نامیدن	بنامی	V;2;SG;SBJV;PRS
+نامیدن	نامی	V;2;SG;PFV
+نامیدن	نامید	V;2;PL;PFV
+نامیدن	نامیدند	V;3;PL;PST
+نامیدن	نامیده	V;3;SG;PRS;PRF;COL
+نامیدن	نامم	V;1;SG;PFV
+نامیدن	نامه	V;3;SG;PFV;COL
+
+نشستن	بنشین	V;2;SG;IMP
+نشستن	بنشینید	V;2;PL;IMP
+نشستن	بنشیند	V;3;SG;SBJV;PRS
+نشستن	بنشینیم	V;1;PL;SBJV;PRS
+نشستن	بنشینند	V;3;PL;SBJV;PRS
+نشستن	نشست	V;3;SG;PST
+نشستن	نشستیم	V;1;PL;PST
+نشستن	نشستم	V;1;SG;PST
+نشستن	نشستن	V;3;PL;PST;COL
+نشستن	نشستند	V;3;PL;PST
+نشستن	نشسته	V;3;SG;PRS;PRF;COL
+نشستن	نشیند	V;3;SG;PFV
+
+نگریستن	بنگر	V;2;SG;IMP
+نگریستن	بنگرید	V;2;PL;IMP
+نگریستن	بنگرد	V;3;SG;SBJV;PRS
+نگریستن	بنگرند	V;3;PL;SBJV;PRS
+نگریستن	نگریست	V;3;SG;PST
+نگریستن	نگریستیم	V;1;PL;PST
+نگریستن	نگریستم	V;1;SG;PST
+نگریستن	نگریستند	V;3;PL;PST
+نگریستن	نگریسته	V;3;SG;PRS;PRF;COL
+
+نواختن	بنوازند	V;3;PL;SBJV;PRS
+نواختن	نواختیم	V;1;PL;PST
+نواختن	نواختن	V;3;PL;PST;COL
+نواختن	نواخته	V;3;SG;PRS;PRF;COL
+
+نوشتن	بنویس	V;2;SG;IMP
+نوشتن	بنویسد	V;3;SG;SBJV;PRS
+نوشتن	بنویسیم	V;1;PL;SBJV;PRS
+نوشتن	بنویسم	V;1;SG;SBJV;PRS
+نوشتن	نوشت	V;3;SG;PST
+نوشتن	نوشتم	V;1;SG;PST
+نوشتن	نوشتن	V;3;PL;PST;COL
+نوشتن	نوشتند	V;3;PL;PST
+نوشتن	نوشته	V;3;SG;PRS;PRF;COL
+
+ورزیدن	ورزی	V;2;SG;PFV
+ورزیدن	ورزید	V;2;PL;PFV
+ورزیدن	ورزد	V;3;SG;PFV
+ورزیدن	ورزیدن	V;3;PL;PST;COL
+ورزیدن	ورزیدند	V;3;PL;PST
+ورزیدن	ورزیده	V;3;SG;PRS;PRF;COL
