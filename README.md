@@ -4,7 +4,7 @@ This task is a continuation and subset of the SIGMORPHON 2020 shared task 2. Thi
 
 ## Important Links
 - [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfdkuA00Uw51KtDNNN_FJgICqOjq2Yx2fPPRzOCU7nb-XZ5YQ/viewform?usp=sf_link)
-- [Data](https://github.com/sigmorphon/2021Task2)
+- [Data](https://github.com/sigmorphon/2021Task2/tree/master/data)
 - [Baseline](https://github.com/sigmorphon/2021Task2/blob/master/baseline/substring_cluster.py)
 
 ## Description
@@ -49,7 +49,7 @@ For example, if the tokenized Bible text is:
 We will release development languages at the start of the shared task. Those languages should be used for model development, hyperparameter tuning, etc. However, performance on the development languages will not be taken into account for the final evaluation. The final evaluation of all submitted systems will be on test languages, which we will only reveal at the beginning of the test phase.
 
 ### External Data
-In order to enable a fair comparison between systems, we don’t allow the use of any external resources, i.e., anything not provided in the task2 folder of the [data repository](https://github.com/sigmorphon/2021Task2/data). Importantly, this excludes both unlabeled data and any trained models available online. (Thus, the use of pretrained models like morphological analyzers or BERT (Devlin et al., 2018) isn’t allowed!)
+In order to enable a fair comparison between systems, we don’t allow the use of any external resources, i.e., anything not provided in the task2 folder of the [data repository](https://github.com/sigmorphon/2021Task2/tree/master/data). Importantly, this excludes both unlabeled data and any trained models available online. (Thus, the use of pretrained models like morphological analyzers or BERT (Devlin et al., 2018) isn’t allowed!)
 
 ## Evaluation
 Evaluation will be done on up to 1000 paradigms per language. We will use best-match F1 score, which we compute as follows:
