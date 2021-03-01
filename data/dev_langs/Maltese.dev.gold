@@ -1,647 +1,647 @@
-fetaħ	ftaħt	V;FIN;PST;PRF;2;SG
-fetaħ	jiftħu	V;FIN;PST;IPFV;3;PL
-fetaħ	fetaħ	V;FIN;PST;PRF;3;SG;MASC
-fetaħ	tiftħu	V;FIN;PST;IPFV;2;PL
-fetaħ	tiftaħ	V;FIN;PST;IPFV;2;SG
-fetaħ	iftħu	V;FIN;IMP;1;PL
-fetaħ	niftaħ	V;FIN;PST;IPFV;1;SG
-fetaħ	fetħu	V;FIN;PST;PRF;3;PL
-fetaħ	jiftaħ	V;FIN;PST;IPFV;3;SG;MASC
-fetaħ	fetħet	V;FIN;PST;PRF;3;SG;FEM
-fetaħ	ftaħna	V;FIN;PST;PRF;1;PL
-
-fired	nifred	V;FIN;PST;IPFV;1;SG
-fired	jifred	V;FIN;PST;IPFV;3;SG;MASC
-
-gideb	gdibt	V;FIN;PST;PRF;2;SG
-gideb	jigdbu	V;FIN;PST;IPFV;3;PL
-gideb	gideb	V;FIN;PST;PRF;3;SG;MASC
-gideb	tigdbu	V;FIN;PST;IPFV;2;PL
-gideb	nigdbu	V;FIN;PST;IPFV;1;PL
-gideb	nigdeb	V;FIN;PST;IPFV;1;SG
-gideb	jigdeb	V;FIN;PST;IPFV;3;SG;MASC
-
-ikoll	ikollna	V;FIN;1;PL;MASC+FEM
-ikoll	ikollha	V;FIN;3;SG;FEM
-ikoll	ikollu	V;FIN;3;SG;MASC
-ikoll	ikollkom	V;FIN;2;PL;MASC+FEM
-ikoll	ikollok	V;FIN;2;SG;MASC/FEM
-ikoll	ikollhom	V;FIN;3;PL;MASC+FEM
-
-ipprova	nipprova	V;FIN;PST;IPFV;1;SG
-ipprova	jipprova	V;FIN;PST;IPFV;3;SG;MASC
-
-jaf	jafu	V;FIN;PST;IPFV;3;PL
-jaf	tafu	V;FIN;PST;IPFV;2;PL
-jaf	taf	V;FIN;PST;IPFV;2;SG
-jaf	nafu	V;FIN;PST;IPFV;1;PL
-jaf	naf	V;FIN;PST;IPFV;1;SG
-jaf	jaf	V;FIN;PST;IPFV;3;SG;MASC
-
-jisem	jisimha	V;FIN;3;SG;FEM
-jisem	jisimni	V;FIN;1;SG;MASC/FEM
-jisem	jismu	V;FIN;3;SG;MASC
-
-kanta	kantaw	V;FIN;IMP;1;PL
-kanta	nkanta	V;FIN;PST;IPFV;1;SG
-kanta	jkanta	V;FIN;PST;IPFV;3;SG;MASC
-
-kell	kellna	V;FIN;1;PL;MASC+FEM
-kell	kellha	V;FIN;3;SG;FEM
-kell	kellu	V;FIN;3;SG;MASC
-kell	kellkom	V;FIN;2;PL;MASC+FEM
-kell	kellhom	V;FIN;3;PL;MASC+FEM
-
-kiber	jikbru	V;FIN;PST;IPFV;3;PL
-kiber	kiber	V;FIN;PST;PRF;3;SG;MASC
-kiber	tikbru	V;FIN;PST;IPFV;2;PL
-kiber	tikber	V;FIN;PST;IPFV;2;SG
-kiber	nikbru	V;FIN;PST;IPFV;1;PL
-kiber	ikbru	V;FIN;IMP;1;PL
-kiber	jikber	V;FIN;PST;IPFV;3;SG;MASC
-kiber	kibret	V;FIN;PST;PRF;3;SG;FEM
-
-kiel	kilt	V;FIN;PST;PRF;2;SG
-kiel	jieklu	V;FIN;PST;IPFV;3;PL
-kiel	kiel	V;FIN;PST;PRF;3;SG;MASC
-kiel	tieklu	V;FIN;PST;IPFV;2;PL
-kiel	tiekol	V;FIN;PST;IPFV;2;SG
-kiel	nieklu	V;FIN;PST;IPFV;1;PL
-kiel	kulu	V;FIN;IMP;1;PL
-kiel	kiltu	V;FIN;PST;PRF;2;PL
-kiel	niekol	V;FIN;PST;IPFV;1;SG
-kiel	kielu	V;FIN;PST;PRF;3;PL
-kiel	jiekol	V;FIN;PST;IPFV;3;SG;MASC
-kiel	kul	V;FIN;IMP;2;SG
-kiel	kilna	V;FIN;PST;PRF;1;PL
-
-kien	kont	V;FIN;PST;PRF;2;SG
-kien	ikunu	V;FIN;PST;IPFV;3;PL
-kien	kien	V;FIN;PST;PRF;3;SG;MASC
-kien	tkunu	V;FIN;PST;IPFV;2;PL
-kien	tkun	V;FIN;PST;IPFV;2;SG
-kien	nkunu	V;FIN;PST;IPFV;1;PL
-kien	kunu	V;FIN;IMP;1;PL
-kien	kontu	V;FIN;PST;PRF;2;PL
-kien	inkun	V;FIN;PST;IPFV;1;SG
-kien	kienu	V;FIN;PST;PRF;3;PL
-kien	ikun	V;FIN;PST;IPFV;3;SG;MASC
-kien	kienet	V;FIN;PST;PRF;3;SG;FEM
-kien	kun	V;FIN;IMP;2;SG
-kien	konna	V;FIN;PST;PRF;1;PL
-
-kiseb	ksibt	V;FIN;PST;PRF;2;SG
-kiseb	jiksbu	V;FIN;PST;IPFV;3;PL
-kiseb	kiseb	V;FIN;PST;PRF;3;SG;MASC
-kiseb	tiksbu	V;FIN;PST;IPFV;2;PL
-kiseb	niksbu	V;FIN;PST;IPFV;1;PL
-kiseb	ksibtu	V;FIN;PST;PRF;2;PL
-kiseb	nikseb	V;FIN;PST;IPFV;1;SG
-kiseb	kisbu	V;FIN;PST;PRF;3;PL
-kiseb	jikseb	V;FIN;PST;IPFV;3;SG;MASC
-kiseb	ksibna	V;FIN;PST;PRF;1;PL
-
-kiser	jiksru	V;FIN;PST;IPFV;3;PL
-kiser	tiksru	V;FIN;PST;IPFV;2;PL
-kiser	tikser	V;FIN;PST;IPFV;2;SG
-kiser	kisru	V;FIN;PST;PRF;3;PL
-kiser	jikser	V;FIN;PST;IPFV;3;SG;MASC
-
-kiteb	ktibt	V;FIN;PST;PRF;2;SG
-kiteb	kiteb	V;FIN;PST;PRF;3;SG;MASC
-kiteb	tikteb	V;FIN;PST;IPFV;2;SG
-kiteb	niktbu	V;FIN;PST;IPFV;1;PL
-kiteb	ktibtu	V;FIN;PST;PRF;2;PL
-kiteb	nikteb	V;FIN;PST;IPFV;1;SG
-kiteb	kitbu	V;FIN;PST;PRF;3;PL
-kiteb	jikteb	V;FIN;PST;IPFV;3;SG;MASC
-kiteb	ikteb	V;FIN;IMP;2;SG
-
-libes	jilbsu	V;FIN;PST;IPFV;3;PL
-libes	libes	V;FIN;PST;PRF;3;SG;MASC
-libes	tilbsu	V;FIN;PST;IPFV;2;PL
-libes	tilbes	V;FIN;PST;IPFV;2;SG
-libes	nilbsu	V;FIN;PST;IPFV;1;PL
-libes	ilbsu	V;FIN;IMP;1;PL
-libes	lbistu	V;FIN;PST;PRF;2;PL
-libes	libsu	V;FIN;PST;PRF;3;PL
-libes	jilbes	V;FIN;PST;IPFV;3;SG;MASC
-libes	ilbes	V;FIN;IMP;2;SG
-
-mar	imorru	V;FIN;PST;IPFV;3;PL
-mar	mar	V;FIN;PST;PRF;3;SG;MASC
-mar	tmorru	V;FIN;PST;IPFV;2;PL
-mar	tmur	V;FIN;PST;IPFV;2;SG
-mar	immorru	V;FIN;PST;IPFV;1;PL
-mar	morru	V;FIN;IMP;1;PL
-mar	immur	V;FIN;PST;IPFV;1;SG
-mar	marru	V;FIN;PST;PRF;3;PL
-mar	imur	V;FIN;PST;IPFV;3;SG;MASC
-mar	marret	V;FIN;PST;PRF;3;SG;FEM
-mar	mur	V;FIN;IMP;2;SG
-mar	morna	V;FIN;PST;PRF;1;PL
-
-mexa	jimxu	V;FIN;PST;IPFV;3;PL
-mexa	mexa	V;FIN;PST;PRF;3;SG;MASC
-mexa	timxu	V;FIN;PST;IPFV;2;PL
-mexa	timxi	V;FIN;PST;IPFV;2;SG
-mexa	nimxu	V;FIN;PST;IPFV;1;PL
-mexa	imxu	V;FIN;IMP;1;PL
-mexa	jimxi	V;FIN;PST;IPFV;3;SG;MASC
-mexa	imxi	V;FIN;IMP;2;SG
-mexa	imxejna	V;FIN;PST;PRF;1;PL
-
-miet	mitt	V;FIN;PST;PRF;2;SG
-miet	jmutu	V;FIN;PST;IPFV;3;PL
-miet	miet	V;FIN;PST;PRF;3;SG;MASC
-miet	tmutu	V;FIN;PST;IPFV;2;PL
-miet	tmut	V;FIN;PST;IPFV;2;SG
-miet	mmutu	V;FIN;PST;IPFV;1;PL
-miet	mittu	V;FIN;PST;PRF;2;PL
-miet	mmut	V;FIN;PST;IPFV;1;SG
-miet	mietu	V;FIN;PST;PRF;3;PL
-miet	jmut	V;FIN;PST;IPFV;3;SG;MASC
-miet	mietet	V;FIN;PST;PRF;3;SG;FEM
-miet	mitna	V;FIN;PST;PRF;1;PL
-
-nesa	jinsew	V;FIN;PST;IPFV;3;PL
-nesa	nesa	V;FIN;PST;PRF;3;SG;MASC
-nesa	ninsa	V;FIN;PST;IPFV;1;SG
-nesa	jinsa	V;FIN;PST;IPFV;3;SG;MASC
-
-niżel	nżilt	V;FIN;PST;PRF;2;SG
-niżel	jinżlu	V;FIN;PST;IPFV;3;PL
-niżel	niżel	V;FIN;PST;PRF;3;SG;MASC
-niżel	tinżel	V;FIN;PST;IPFV;2;SG
-niżel	ninżel	V;FIN;PST;IPFV;1;SG
-niżel	niżlu	V;FIN;PST;PRF;3;PL
-niżel	jinżel	V;FIN;PST;IPFV;3;SG;MASC
-niżel	niżlet	V;FIN;PST;PRF;3;SG;FEM
-niżel	inżel	V;FIN;IMP;2;SG
-niżel	nżilna	V;FIN;PST;PRF;1;PL
-
-qabeż	qabeż	V;FIN;PST;PRF;3;SG;MASC
-qabeż	aqbżu	V;FIN;IMP;1;PL
-qabeż	qabżu	V;FIN;PST;PRF;3;PL
-qabeż	jaqbeż	V;FIN;PST;IPFV;3;SG;MASC
-qabeż	qabżet	V;FIN;PST;PRF;3;SG;FEM
-
-qal	qal	V;FIN;PST;PRF;3;SG;MASC
-qal	qalu	V;FIN;PST;PRF;3;PL
-qal	qalet	V;FIN;PST;PRF;3;SG;FEM
-
-qara	qara	V;FIN;PST;PRF;3;SG;MASC
-qara	qrajtu	V;FIN;PST;PRF;2;PL
-
-qasam	jaqsmu	V;FIN;PST;IPFV;3;PL
-qasam	qasam	V;FIN;PST;PRF;3;SG;MASC
-qasam	taqsmu	V;FIN;PST;IPFV;2;PL
-qasam	taqsam	V;FIN;PST;IPFV;2;SG
-qasam	naqsmu	V;FIN;PST;IPFV;1;PL
-qasam	aqsmu	V;FIN;IMP;1;PL
-qasam	qsamtu	V;FIN;PST;PRF;2;PL
-qasam	naqsam	V;FIN;PST;IPFV;1;SG
-qasam	qasmu	V;FIN;PST;PRF;3;PL
-qasam	jaqsam	V;FIN;PST;IPFV;3;SG;MASC
-qasam	aqsam	V;FIN;IMP;2;SG
-qasam	qsamna	V;FIN;PST;PRF;1;PL
-
-qatel	qtilt	V;FIN;PST;PRF;2;SG
-qatel	joqtlu	V;FIN;PST;IPFV;3;PL
-qatel	qatel	V;FIN;PST;PRF;3;SG;MASC
-qatel	toqtlu	V;FIN;PST;IPFV;2;PL
-qatel	toqtol	V;FIN;PST;IPFV;2;SG
-qatel	noqtlu	V;FIN;PST;IPFV;1;PL
-qatel	qtiltu	V;FIN;PST;PRF;2;PL
-qatel	qatlu	V;FIN;PST;PRF;3;PL
-qatel	joqtol	V;FIN;PST;IPFV;3;SG;MASC
-qatel	oqtol	V;FIN;IMP;2;SG
-
-ra	rajt	V;FIN;PST;PRF;2;SG
-ra	jaraw	V;FIN;PST;IPFV;3;PL
-ra	ra	V;FIN;PST;PRF;3;SG;MASC
-ra	taraw	V;FIN;PST;IPFV;2;PL
-ra	tara	V;FIN;PST;IPFV;2;SG
-ra	naraw	V;FIN;PST;IPFV;1;PL
-ra	araw	V;FIN;IMP;1;PL
-ra	rajtu	V;FIN;PST;PRF;2;PL
-ra	nara	V;FIN;PST;IPFV;1;SG
-ra	raw	V;FIN;PST;PRF;3;PL
-ra	jara	V;FIN;PST;IPFV;3;SG;MASC
-ra	rat	V;FIN;PST;PRF;3;SG;FEM
-ra	ara	V;FIN;IMP;2;SG
-ra	rajna	V;FIN;PST;PRF;1;PL
-
-rabat	rabat	V;FIN;PST;PRF;3;SG;MASC
-rabat	torbot	V;FIN;PST;IPFV;2;SG
-rabat	norbot	V;FIN;PST;IPFV;1;SG
-rabat	rabtu	V;FIN;PST;PRF;3;PL
-
-rebaħ	rbaħt	V;FIN;PST;PRF;2;SG
-rebaħ	jirbħu	V;FIN;PST;IPFV;3;PL
-rebaħ	tirbaħ	V;FIN;PST;IPFV;2;SG
-rebaħ	nirbaħ	V;FIN;PST;IPFV;1;SG
-rebaħ	jirbaħ	V;FIN;PST;IPFV;3;SG;MASC
-rebaħ	irbaħ	V;FIN;IMP;2;SG
-
-ried	ridt	V;FIN;PST;PRF;2;SG
-ried	iridu	V;FIN;PST;IPFV;3;PL
-ried	tridu	V;FIN;PST;IPFV;2;PL
-ried	trid	V;FIN;PST;IPFV;2;SG
-ried	irridu	V;FIN;PST;IPFV;1;PL
-ried	ridtu	V;FIN;PST;PRF;2;PL
-ried	irrid	V;FIN;PST;IPFV;1;SG
-ried	irid	V;FIN;PST;IPFV;3;SG;MASC
-ried	ridna	V;FIN;PST;PRF;1;PL
-
-rikeb	rikeb	V;FIN;PST;PRF;3;SG;MASC
-rikeb	rikbu	V;FIN;PST;PRF;3;PL
-
-sab	sibt	V;FIN;PST;PRF;2;SG
-sab	isibu	V;FIN;PST;IPFV;3;PL
-sab	sab	V;FIN;PST;PRF;3;SG;MASC
-sab	issibu	V;FIN;PST;IPFV;2;PL
-sab	issib	V;FIN;PST;IPFV;2;SG
-sab	sibu	V;FIN;IMP;1;PL
-sab	sibtu	V;FIN;PST;PRF;2;PL
-sab	insib	V;FIN;PST;IPFV;1;SG
-sab	sabu	V;FIN;PST;PRF;3;PL
-sab	isib	V;FIN;PST;IPFV;3;SG;MASC
-sab	sabet	V;FIN;PST;PRF;3;SG;FEM
-sab	sibna	V;FIN;PST;PRF;1;PL
-
-sama'	sama'	V;FIN;PST;PRF;3;SG;MASC
-sama'	tisma'	V;FIN;PST;IPFV;2;SG
-sama'	smajt	V;FIN;PST;PRF;1;SG
-sama'	smajtu	V;FIN;PST;PRF;2;PL
-sama'	nisma'	V;FIN;PST;IPFV;1;SG
-sama'	jisma'	V;FIN;PST;IPFV;3;SG;MASC
-sama'	isma'	V;FIN;IMP;2;SG
-sama'	smajna	V;FIN;PST;PRF;1;PL
-
-seraq	jisirqu	V;FIN;PST;IPFV;3;PL
-seraq	tisirqu	V;FIN;PST;IPFV;2;PL
-seraq	tisraq	V;FIN;PST;IPFV;2;SG
-seraq	jisraq	V;FIN;PST;IPFV;3;SG;MASC
-
-seta'	seta'	V;FIN;PST;PRF;3;SG;MASC
-seta'	tista'	V;FIN;PST;IPFV;2;SG
-seta'	stajt	V;FIN;PST;PRF;1;SG
-seta'	nista'	V;FIN;PST;IPFV;1;SG
-seta'	jista'	V;FIN;PST;IPFV;3;SG;MASC
-seta'	stajna	V;FIN;PST;PRF;1;PL
-
-siker	sikru	V;FIN;PST;PRF;3;PL
-
-siket	jisktu	V;FIN;PST;IPFV;3;PL
-siket	siktu	V;FIN;PST;PRF;3;PL
-siket	jiskot	V;FIN;PST;IPFV;3;SG;MASC
-siket	iskot	V;FIN;IMP;2;SG
-siket	skitna	V;FIN;PST;PRF;1;PL
-
-ta	tajt	V;FIN;PST;PRF;2;SG
-ta	ta	V;FIN;PST;PRF;3;SG;MASC
-ta	tajtu	V;FIN;PST;PRF;2;PL
-ta	taw	V;FIN;PST;PRF;3;PL
-ta	tat	V;FIN;PST;PRF;3;SG;FEM
-ta	tajna	V;FIN;PST;PRF;1;PL
-
-tala'	tala'	V;FIN;PST;PRF;3;SG;MASC
-tala'	titla'	V;FIN;PST;IPFV;2;SG
-tala'	tlajt	V;FIN;PST;PRF;1;SG
-tala'	nitla'	V;FIN;PST;IPFV;1;SG
-tala'	jitla'	V;FIN;PST;IPFV;3;SG;MASC
-tala'	tlajna	V;FIN;PST;PRF;1;PL
-
-tar	ittir	V;FIN;PST;IPFV;2;SG
-tar	tir	V;FIN;IMP;2;SG
-
-telaq	tlaqt	V;FIN;PST;PRF;2;SG
-telaq	jitilqu	V;FIN;PST;IPFV;3;PL
-telaq	telaq	V;FIN;PST;PRF;3;SG;MASC
-telaq	titilqu	V;FIN;PST;IPFV;2;PL
-telaq	titlaq	V;FIN;PST;IPFV;2;SG
-telaq	nitilqu	V;FIN;PST;IPFV;1;PL
-telaq	itilqu	V;FIN;IMP;1;PL
-telaq	tlaqtu	V;FIN;PST;PRF;2;PL
-telaq	nitlaq	V;FIN;PST;IPFV;1;SG
-telaq	telqu	V;FIN;PST;PRF;3;PL
-telaq	jitlaq	V;FIN;PST;IPFV;3;SG;MASC
-telaq	telqet	V;FIN;PST;PRF;3;SG;FEM
-telaq	itlaq	V;FIN;IMP;2;SG
-telaq	tlaqna	V;FIN;PST;PRF;1;PL
-
-tilef	tlift	V;FIN;PST;PRF;2;SG
-tilef	tilef	V;FIN;PST;PRF;3;SG;MASC
-tilef	titlef	V;FIN;PST;IPFV;2;SG
-tilef	nitlef	V;FIN;PST;IPFV;1;SG
-tilef	tilfu	V;FIN;PST;PRF;3;PL
-tilef	jitlef	V;FIN;PST;IPFV;3;SG;MASC
-tilef	tlifna	V;FIN;PST;PRF;1;PL
-
-tkellem	tkellimt	V;FIN;PST;PRF;2;SG
-tkellem	jitkellmu	V;FIN;PST;IPFV;3;PL
-tkellem	tkellem	V;FIN;PST;PRF;3;SG;MASC
-tkellem	titkellmu	V;FIN;PST;IPFV;2;PL
-tkellem	titkellem	V;FIN;PST;IPFV;2;SG
-tkellem	nitkellmu	V;FIN;PST;IPFV;1;PL
-tkellem	tkellmu	V;FIN;IMP;1;PL
-tkellem	tkellimtu	V;FIN;PST;PRF;2;PL
-tkellem	nitkellem	V;FIN;PST;IPFV;1;SG
-tkellem	jitkellem	V;FIN;PST;IPFV;3;SG;MASC
-tkellem	tkellimna	V;FIN;PST;PRF;1;PL
-
-wasal	wasalt	V;FIN;PST;PRF;2;SG
-wasal	jaslu	V;FIN;PST;IPFV;3;PL
-wasal	wasal	V;FIN;PST;PRF;3;SG;MASC
-wasal	taslu	V;FIN;PST;IPFV;2;PL
-wasal	tasal	V;FIN;PST;IPFV;2;SG
-wasal	naslu	V;FIN;PST;IPFV;1;PL
-wasal	aslu	V;FIN;IMP;1;PL
-wasal	wasaltu	V;FIN;PST;PRF;2;PL
-wasal	nasal	V;FIN;PST;IPFV;1;SG
-wasal	waslu	V;FIN;PST;PRF;3;PL
-wasal	jasal	V;FIN;PST;IPFV;3;SG;MASC
-wasal	waslet	V;FIN;PST;PRF;3;SG;FEM
-wasal	asal	V;FIN;IMP;2;SG
-wasal	wasalna	V;FIN;PST;PRF;1;PL
-
-wera	urejt	V;FIN;PST;PRF;2;SG
-wera	juru	V;FIN;PST;IPFV;3;PL
-wera	wera	V;FIN;PST;PRF;3;SG;MASC
-wera	turu	V;FIN;PST;IPFV;2;PL
-wera	turi	V;FIN;PST;IPFV;2;SG
-wera	nuru	V;FIN;PST;IPFV;1;PL
-wera	uru	V;FIN;IMP;1;PL
-wera	nuri	V;FIN;PST;IPFV;1;SG
-wera	juri	V;FIN;PST;IPFV;3;SG;MASC
-wera	uri	V;FIN;IMP;2;SG
-
-wieġeb	weġibt	V;FIN;PST;PRF;2;SG
-wieġeb	jwieġbu	V;FIN;PST;IPFV;3;PL
-wieġeb	wieġeb	V;FIN;PST;PRF;3;SG;MASC
-wieġeb	twieġbu	V;FIN;PST;IPFV;2;PL
-wieġeb	twieġeb	V;FIN;PST;IPFV;2;SG
-wieġeb	nwieġbu	V;FIN;PST;IPFV;1;PL
-wieġeb	wieġbu	V;FIN;IMP;1;PL
-wieġeb	jwieġeb	V;FIN;PST;IPFV;3;SG;MASC
-wieġeb	wieġbet	V;FIN;PST;PRF;3;SG;FEM
-
-xtaq	xtaqt	V;FIN;PST;PRF;2;SG
-xtaq	jixtiequ	V;FIN;PST;IPFV;3;PL
-xtaq	xtaq	V;FIN;PST;PRF;3;SG;MASC
-xtaq	tixtiequ	V;FIN;PST;IPFV;2;PL
-xtaq	tixtieq	V;FIN;PST;IPFV;2;SG
-xtaq	nixtiequ	V;FIN;PST;IPFV;1;PL
-xtaq	nixtieq	V;FIN;PST;IPFV;1;SG
-xtaq	xtaqu	V;FIN;PST;PRF;3;PL
-xtaq	jixtieq	V;FIN;PST;IPFV;3;SG;MASC
-xtaq	xtaqna	V;FIN;PST;PRF;1;PL
-
-xtara	xtrajt	V;FIN;PST;PRF;2;SG
-xtara	jixtru	V;FIN;PST;IPFV;3;PL
-xtara	xtara	V;FIN;PST;PRF;3;SG;MASC
-xtara	tixtru	V;FIN;PST;IPFV;2;PL
-xtara	tixtri	V;FIN;PST;IPFV;2;SG
-xtara	nixtru	V;FIN;PST;IPFV;1;PL
-xtara	ixtru	V;FIN;IMP;1;PL
-xtara	xtraw	V;FIN;PST;PRF;3;PL
-xtara	jixtri	V;FIN;PST;IPFV;3;SG;MASC
-xtara	ixtri	V;FIN;IMP;2;SG
-
-ġabar	jiġbru	V;FIN;PST;IPFV;3;PL
-ġabar	ġabar	V;FIN;PST;PRF;3;SG;MASC
-ġabar	tiġbru	V;FIN;PST;IPFV;2;PL
-ġabar	tiġbor	V;FIN;PST;IPFV;2;SG
-ġabar	iġbru	V;FIN;IMP;1;PL
-ġabar	ġbartu	V;FIN;PST;PRF;2;PL
-ġabar	niġbor	V;FIN;PST;IPFV;1;SG
-ġabar	ġabru	V;FIN;PST;PRF;3;PL
-ġabar	jiġbor	V;FIN;PST;IPFV;3;SG;MASC
-ġabar	iġbor	V;FIN;IMP;2;SG
-
-ġibed	jiġbdu	V;FIN;PST;IPFV;3;PL
-ġibed	ġibed	V;FIN;PST;PRF;3;SG;MASC
-ġibed	tiġbed	V;FIN;PST;IPFV;2;SG
-ġibed	niġbed	V;FIN;PST;IPFV;1;SG
-ġibed	ġibdu	V;FIN;PST;PRF;3;PL
-ġibed	jiġbed	V;FIN;PST;IPFV;3;SG;MASC
-
-ġie	ġejt	V;FIN;PST;PRF;2;SG
-ġie	jiġu	V;FIN;PST;IPFV;3;PL
-ġie	ġie	V;FIN;PST;PRF;3;SG;MASC
-ġie	tiġu	V;FIN;PST;IPFV;2;PL
-ġie	tiġi	V;FIN;PST;IPFV;2;SG
-ġie	niġu	V;FIN;PST;IPFV;1;PL
-ġie	ejjew	V;FIN;IMP;1;PL
-ġie	ġejtu	V;FIN;PST;PRF;2;PL
-ġie	niġi	V;FIN;PST;IPFV;1;SG
-ġie	ġew	V;FIN;PST;PRF;3;PL
-ġie	jiġi	V;FIN;PST;IPFV;3;SG;MASC
-ġie	ġiet	V;FIN;PST;PRF;3;SG;FEM
-ġie	ejja	V;FIN;IMP;2;SG
-ġie	ġejna	V;FIN;PST;PRF;1;PL
-
-ħa	ħadt	V;FIN;PST;PRF;2;SG
-ħa	jieħdu	V;FIN;PST;IPFV;3;PL
-ħa	ħa	V;FIN;PST;PRF;3;SG;MASC
-ħa	tieħdu	V;FIN;PST;IPFV;2;PL
-ħa	tieħu	V;FIN;PST;IPFV;2;SG
-ħa	nieħdu	V;FIN;PST;IPFV;1;PL
-ħa	ħudu	V;FIN;IMP;1;PL
-ħa	ħadtu	V;FIN;PST;PRF;2;PL
-ħa	nieħu	V;FIN;PST;IPFV;1;SG
-ħa	ħadu	V;FIN;PST;PRF;3;PL
-ħa	jieħu	V;FIN;PST;IPFV;3;SG;MASC
-ħa	ħadet	V;FIN;PST;PRF;3;SG;FEM
-ħa	ħu	V;FIN;IMP;2;SG
-ħa	ħadna	V;FIN;PST;PRF;1;PL
-
-ħabb	ħabbejt	V;FIN;PST;PRF;2;SG
-ħabb	jħobbu	V;FIN;PST;IPFV;3;PL
-ħabb	ħabb	V;FIN;PST;PRF;3;SG;MASC
-ħabb	tħobbu	V;FIN;PST;IPFV;2;PL
-ħabb	tħobb	V;FIN;PST;IPFV;2;SG
-ħabb	nħobbu	V;FIN;PST;IPFV;1;PL
-ħabb	ħobbu	V;FIN;IMP;1;PL
-ħabb	ħabbejtu	V;FIN;PST;PRF;2;PL
-ħabb	nħobb	V;FIN;PST;IPFV;1;SG
-ħabb	jħobb	V;FIN;PST;IPFV;3;SG;MASC
-ħabb	ħabbet	V;FIN;PST;PRF;3;SG;FEM
-ħabb	ħobb	V;FIN;IMP;2;SG
-ħabb	ħabbejna	V;FIN;PST;PRF;1;PL
-
-ħalaq	ħlaqt	V;FIN;PST;PRF;2;SG
-ħalaq	joħolqu	V;FIN;PST;IPFV;3;PL
-ħalaq	ħalaq	V;FIN;PST;PRF;3;SG;MASC
-ħalaq	ħalqu	V;FIN;PST;PRF;3;PL
-ħalaq	joħloq	V;FIN;PST;IPFV;3;SG;MASC
-
-ħalla	ħallejt	V;FIN;PST;PRF;2;SG
-ħalla	jħallu	V;FIN;PST;IPFV;3;PL
-ħalla	ħalla	V;FIN;PST;PRF;3;SG;MASC
-ħalla	tħallu	V;FIN;PST;IPFV;2;PL
-ħalla	tħalli	V;FIN;PST;IPFV;2;SG
-ħalla	nħallu	V;FIN;PST;IPFV;1;PL
-ħalla	ħallu	V;FIN;IMP;1;PL
-ħalla	ħallejtu	V;FIN;PST;PRF;2;PL
-ħalla	nħalli	V;FIN;PST;IPFV;1;SG
-ħalla	ħallew	V;FIN;PST;PRF;3;PL
-ħalla	jħalli	V;FIN;PST;IPFV;3;SG;MASC
-ħalla	ħalliet	V;FIN;PST;PRF;3;SG;FEM
-ħalla	ħalli	V;FIN;IMP;2;SG
-ħalla	ħallejna	V;FIN;PST;PRF;1;PL
-
-ħaraq	taħraq	V;FIN;PST;IPFV;2;SG
-ħaraq	jaħraq	V;FIN;PST;IPFV;3;SG;MASC
-
-ħareġ	ħriġt	V;FIN;PST;PRF;2;SG
-ħareġ	joħorġu	V;FIN;PST;IPFV;3;PL
-ħareġ	ħareġ	V;FIN;PST;PRF;3;SG;MASC
-ħareġ	toħorġu	V;FIN;PST;IPFV;2;PL
-ħareġ	toħroġ	V;FIN;PST;IPFV;2;SG
-ħareġ	noħorġu	V;FIN;PST;IPFV;1;PL
-ħareġ	oħorġu	V;FIN;IMP;1;PL
-ħareġ	ħriġtu	V;FIN;PST;PRF;2;PL
-ħareġ	noħroġ	V;FIN;PST;IPFV;1;SG
-ħareġ	ħarġu	V;FIN;PST;PRF;3;PL
-ħareġ	joħroġ	V;FIN;PST;IPFV;3;SG;MASC
-ħareġ	ħarġet	V;FIN;PST;PRF;3;SG;FEM
-ħareġ	oħroġ	V;FIN;IMP;2;SG
-ħareġ	ħriġna	V;FIN;PST;PRF;1;PL
-
-ħaseb	ħsibt	V;FIN;PST;PRF;2;SG
-ħaseb	jaħsbu	V;FIN;PST;IPFV;3;PL
-ħaseb	ħaseb	V;FIN;PST;PRF;3;SG;MASC
-ħaseb	taħsbu	V;FIN;PST;IPFV;2;PL
-ħaseb	taħseb	V;FIN;PST;IPFV;2;SG
-ħaseb	naħsbu	V;FIN;PST;IPFV;1;PL
-ħaseb	aħsbu	V;FIN;IMP;1;PL
-ħaseb	ħsibtu	V;FIN;PST;PRF;2;PL
-ħaseb	naħseb	V;FIN;PST;IPFV;1;SG
-ħaseb	ħasbu	V;FIN;PST;PRF;3;PL
-ħaseb	jaħseb	V;FIN;PST;IPFV;3;SG;MASC
-ħaseb	ħasbet	V;FIN;PST;PRF;3;SG;FEM
-ħaseb	aħseb	V;FIN;IMP;2;SG
-
-ħataf	ħataf	V;FIN;PST;PRF;3;SG;MASC
-ħataf	ħtaftu	V;FIN;PST;PRF;2;PL
-ħataf	naħtaf	V;FIN;PST;IPFV;1;SG
-
-ħoloq	joħolqu	V;FIN;PST;IPFV;3;PL
-ħoloq	ħoloq	V;FIN;PST;PRF;3;SG;MASC
-ħoloq	joħloq	V;FIN;PST;IPFV;3;SG;MASC
-
-ħu	ħu	N
-ħu	ħuna	N;1;PL;MASC+FEM
-ħu	ħuha	N;3;SG;FEM
-ħu	ħija	N;1;SG;MASC/FEM
-ħu	ħuh	N;3;SG;MASC
-ħu	ħukom	N;2;PL;MASC+FEM
-ħu	ħuk	N;2;SG;MASC/FEM
-ħu	ħuhom	N;3;PL;MASC+FEM
-
-żar	żar	V;FIN;PST;PRF;3;SG;MASC
-żar	iżżur	V;FIN;PST;IPFV;2;SG
-żar	inżur	V;FIN;PST;IPFV;1;SG
-
-żifen	tiżfen	V;FIN;PST;IPFV;2;SG
-
-baqa'	baqa'	V;FIN;PST;PRF;3;SG;MASC
-baqa'	tibqa'	V;FIN;PST;IPFV;2;SG
-baqa'	bqajt	V;FIN;PST;PRF;1;SG
-baqa'	bqajtu	V;FIN;PST;PRF;2;PL
-baqa'	nibqa'	V;FIN;PST;IPFV;1;SG
-baqa'	jibqa'	V;FIN;PST;IPFV;3;SG;MASC
-baqa'	ibqa'	V;FIN;IMP;2;SG
-baqa'	bqajna	V;FIN;PST;PRF;1;PL
-
-beda	bdejt	V;FIN;PST;PRF;2;SG
-beda	jibdew	V;FIN;PST;IPFV;3;PL
-beda	beda	V;FIN;PST;PRF;3;SG;MASC
-beda	tibdew	V;FIN;PST;IPFV;2;PL
-beda	tibda	V;FIN;PST;IPFV;2;SG
-beda	nibdew	V;FIN;PST;IPFV;1;PL
-beda	bdejtu	V;FIN;PST;PRF;2;PL
-beda	bdew	V;FIN;PST;PRF;3;PL
-beda	jibda	V;FIN;PST;IPFV;3;SG;MASC
-beda	bdiet	V;FIN;PST;PRF;3;SG;FEM
-beda	ibda	V;FIN;IMP;2;SG
-beda	bdejna	V;FIN;PST;PRF;1;PL
-
-bela'	blajtu	V;FIN;PST;PRF;2;PL
-bela'	jibla'	V;FIN;PST;IPFV;3;SG;MASC
-
-bena	bnejt	V;FIN;PST;PRF;2;SG
-bena	jibnu	V;FIN;PST;IPFV;3;PL
-bena	bena	V;FIN;PST;PRF;3;SG;MASC
-bena	tibnu	V;FIN;PST;IPFV;2;PL
-bena	nibnu	V;FIN;PST;IPFV;1;PL
-bena	ibnu	V;FIN;IMP;1;PL
-bena	nibni	V;FIN;PST;IPFV;1;SG
-bena	jibni	V;FIN;PST;IPFV;3;SG;MASC
-bena	bniet	V;FIN;PST;PRF;3;SG;FEM
-bena	ibni	V;FIN;IMP;2;SG
-
-beżaq	beżaq	V;FIN;PST;PRF;3;SG;MASC
-beżaq	beżqu	V;FIN;PST;PRF;3;PL
-
-bidel	bidlu	V;FIN;PST;PRF;3;PL
-
-bies	nbusu	V;FIN;PST;IPFV;1;PL
-bies	nbus	V;FIN;PST;IPFV;1;SG
-bies	biesu	V;FIN;PST;PRF;3;PL
-
-dara	drajt	V;FIN;PST;PRF;2;SG
-dara	jidraw	V;FIN;PST;IPFV;3;PL
-
-daħak	jidħku	V;FIN;PST;IPFV;3;PL
-daħak	tidħku	V;FIN;PST;IPFV;2;PL
-daħak	daħku	V;FIN;PST;PRF;3;PL
-daħak	jidħak	V;FIN;PST;IPFV;3;SG;MASC
-
-daħal	dħalt	V;FIN;PST;PRF;2;SG
-daħal	jidħlu	V;FIN;PST;IPFV;3;PL
-daħal	daħal	V;FIN;PST;PRF;3;SG;MASC
-daħal	tidħlu	V;FIN;PST;IPFV;2;PL
-daħal	tidħol	V;FIN;PST;IPFV;2;SG
-daħal	nidħlu	V;FIN;PST;IPFV;1;PL
-daħal	dħaltu	V;FIN;PST;PRF;2;PL
-daħal	nidħol	V;FIN;PST;IPFV;1;SG
-daħal	daħlu	V;FIN;PST;PRF;3;PL
-daħal	jidħol	V;FIN;PST;IPFV;3;SG;MASC
-daħal	daħlet	V;FIN;PST;PRF;3;SG;FEM
-daħal	idħol	V;FIN;IMP;2;SG
-daħal	dħalna	V;FIN;PST;PRF;1;PL
-
-dineb	dnibt	V;FIN;PST;PRF;2;SG
-dineb	dineb	V;FIN;PST;PRF;3;SG;MASC
-dineb	tidinbu	V;FIN;PST;IPFV;2;PL
-dineb	tidneb	V;FIN;PST;IPFV;2;SG
-dineb	nidinbu	V;FIN;PST;IPFV;1;PL
-dineb	dinbu	V;FIN;PST;PRF;3;PL
-dineb	jidneb	V;FIN;PST;IPFV;3;SG;MASC
-
-emmen	emmint	V;FIN;PST;PRF;2;SG
-emmen	jemmnu	V;FIN;PST;IPFV;3;PL
-emmen	emmen	V;FIN;PST;PRF;3;SG;MASC
-emmen	temmnu	V;FIN;PST;IPFV;2;PL
-emmen	temmen	V;FIN;PST;IPFV;2;SG
-emmen	nemmnu	V;FIN;PST;IPFV;1;PL
-emmen	emmnu	V;FIN;IMP;1;PL
-emmen	emmintu	V;FIN;PST;PRF;2;PL
-emmen	nemmen	V;FIN;PST;IPFV;1;SG
-emmen	jemmen	V;FIN;PST;IPFV;3;SG;MASC
-emmen	emmnet	V;FIN;PST;PRF;3;SG;FEM
-emmen	emminna	V;FIN;PST;PRF;1;PL
-
-fehem	jifhmu	V;FIN;PST;IPFV;3;PL
-fehem	fehem	V;FIN;PST;PRF;3;SG;MASC
-fehem	tifhmu	V;FIN;PST;IPFV;2;PL
-fehem	tifhem	V;FIN;PST;IPFV;2;SG
-fehem	fhimtu	V;FIN;PST;PRF;2;PL
-fehem	nifhem	V;FIN;PST;IPFV;1;SG
-fehem	fehmu	V;FIN;PST;PRF;3;PL
-fehem	jifhem	V;FIN;PST;IPFV;3;SG;MASC
-fehem	ifhem	V;FIN;IMP;2;SG
-fehem	fhimna	V;FIN;PST;PRF;1;PL
+ftaħt
+jiftħu
+fetaħ
+tiftħu
+tiftaħ
+iftħu
+niftaħ
+fetħu
+jiftaħ
+fetħet
+ftaħna
+
+nifred
+jifred
+
+gdibt
+jigdbu
+gideb
+tigdbu
+nigdbu
+nigdeb
+jigdeb
+
+ikollna
+ikollha
+ikollu
+ikollkom
+ikollok
+ikollhom
+
+nipprova
+jipprova
+
+jafu
+tafu
+taf
+nafu
+naf
+jaf
+
+jisimha
+jisimni
+jismu
+
+kantaw
+nkanta
+jkanta
+
+kellna
+kellha
+kellu
+kellkom
+kellhom
+
+jikbru
+kiber
+tikbru
+tikber
+nikbru
+ikbru
+jikber
+kibret
+
+kilt
+jieklu
+kiel
+tieklu
+tiekol
+nieklu
+kulu
+kiltu
+niekol
+kielu
+jiekol
+kul
+kilna
+
+kont
+ikunu
+kien
+tkunu
+tkun
+nkunu
+kunu
+kontu
+inkun
+kienu
+ikun
+kienet
+kun
+konna
+
+ksibt
+jiksbu
+kiseb
+tiksbu
+niksbu
+ksibtu
+nikseb
+kisbu
+jikseb
+ksibna
+
+jiksru
+tiksru
+tikser
+kisru
+jikser
+
+ktibt
+kiteb
+tikteb
+niktbu
+ktibtu
+nikteb
+kitbu
+jikteb
+ikteb
+
+jilbsu
+libes
+tilbsu
+tilbes
+nilbsu
+ilbsu
+lbistu
+libsu
+jilbes
+ilbes
+
+imorru
+mar
+tmorru
+tmur
+immorru
+morru
+immur
+marru
+imur
+marret
+mur
+morna
+
+jimxu
+mexa
+timxu
+timxi
+nimxu
+imxu
+jimxi
+imxi
+imxejna
+
+mitt
+jmutu
+miet
+tmutu
+tmut
+mmutu
+mittu
+mmut
+mietu
+jmut
+mietet
+mitna
+
+jinsew
+nesa
+ninsa
+jinsa
+
+nżilt
+jinżlu
+niżel
+tinżel
+ninżel
+niżlu
+jinżel
+niżlet
+inżel
+nżilna
+
+qabeż
+aqbżu
+qabżu
+jaqbeż
+qabżet
+
+qal
+qalu
+qalet
+
+qara
+qrajtu
+
+jaqsmu
+qasam
+taqsmu
+taqsam
+naqsmu
+aqsmu
+qsamtu
+naqsam
+qasmu
+jaqsam
+aqsam
+qsamna
+
+qtilt
+joqtlu
+qatel
+toqtlu
+toqtol
+noqtlu
+qtiltu
+qatlu
+joqtol
+oqtol
+
+rajt
+jaraw
+ra
+taraw
+tara
+naraw
+araw
+rajtu
+nara
+raw
+jara
+rat
+ara
+rajna
+
+rabat
+torbot
+norbot
+rabtu
+
+rbaħt
+jirbħu
+tirbaħ
+nirbaħ
+jirbaħ
+irbaħ
+
+ridt
+iridu
+tridu
+trid
+irridu
+ridtu
+irrid
+irid
+ridna
+
+rikeb
+rikbu
+
+sibt
+isibu
+sab
+issibu
+issib
+sibu
+sibtu
+insib
+sabu
+isib
+sabet
+sibna
+
+sama'
+tisma'
+smajt
+smajtu
+nisma'
+jisma'
+isma'
+smajna
+
+jisirqu
+tisirqu
+tisraq
+jisraq
+
+seta'
+tista'
+stajt
+nista'
+jista'
+stajna
+
+sikru
+
+jisktu
+siktu
+jiskot
+iskot
+skitna
+
+tajt
+ta
+tajtu
+taw
+tat
+tajna
+
+tala'
+titla'
+tlajt
+nitla'
+jitla'
+tlajna
+
+ittir
+tir
+
+tlaqt
+jitilqu
+telaq
+titilqu
+titlaq
+nitilqu
+itilqu
+tlaqtu
+nitlaq
+telqu
+jitlaq
+telqet
+itlaq
+tlaqna
+
+tlift
+tilef
+titlef
+nitlef
+tilfu
+jitlef
+tlifna
+
+tkellimt
+jitkellmu
+tkellem
+titkellmu
+titkellem
+nitkellmu
+tkellmu
+tkellimtu
+nitkellem
+jitkellem
+tkellimna
+
+wasalt
+jaslu
+wasal
+taslu
+tasal
+naslu
+aslu
+wasaltu
+nasal
+waslu
+jasal
+waslet
+asal
+wasalna
+
+urejt
+juru
+wera
+turu
+turi
+nuru
+uru
+nuri
+juri
+uri
+
+weġibt
+jwieġbu
+wieġeb
+twieġbu
+twieġeb
+nwieġbu
+wieġbu
+jwieġeb
+wieġbet
+
+xtaqt
+jixtiequ
+xtaq
+tixtiequ
+tixtieq
+nixtiequ
+nixtieq
+xtaqu
+jixtieq
+xtaqna
+
+xtrajt
+jixtru
+xtara
+tixtru
+tixtri
+nixtru
+ixtru
+xtraw
+jixtri
+ixtri
+
+jiġbru
+ġabar
+tiġbru
+tiġbor
+iġbru
+ġbartu
+niġbor
+ġabru
+jiġbor
+iġbor
+
+jiġbdu
+ġibed
+tiġbed
+niġbed
+ġibdu
+jiġbed
+
+ġejt
+jiġu
+ġie
+tiġu
+tiġi
+niġu
+ejjew
+ġejtu
+niġi
+ġew
+jiġi
+ġiet
+ejja
+ġejna
+
+ħadt
+jieħdu
+ħa
+tieħdu
+tieħu
+nieħdu
+ħudu
+ħadtu
+nieħu
+ħadu
+jieħu
+ħadet
+ħu
+ħadna
+
+ħabbejt
+jħobbu
+ħabb
+tħobbu
+tħobb
+nħobbu
+ħobbu
+ħabbejtu
+nħobb
+jħobb
+ħabbet
+ħobb
+ħabbejna
+
+ħlaqt
+joħolqu
+ħalaq
+ħalqu
+joħloq
+
+ħallejt
+jħallu
+ħalla
+tħallu
+tħalli
+nħallu
+ħallu
+ħallejtu
+nħalli
+ħallew
+jħalli
+ħalliet
+ħalli
+ħallejna
+
+taħraq
+jaħraq
+
+ħriġt
+joħorġu
+ħareġ
+toħorġu
+toħroġ
+noħorġu
+oħorġu
+ħriġtu
+noħroġ
+ħarġu
+joħroġ
+ħarġet
+oħroġ
+ħriġna
+
+ħsibt
+jaħsbu
+ħaseb
+taħsbu
+taħseb
+naħsbu
+aħsbu
+ħsibtu
+naħseb
+ħasbu
+jaħseb
+ħasbet
+aħseb
+
+ħataf
+ħtaftu
+naħtaf
+
+joħolqu
+ħoloq
+joħloq
+
+ħu
+ħuna
+ħuha
+ħija
+ħuh
+ħukom
+ħuk
+ħuhom
+
+żar
+iżżur
+inżur
+
+tiżfen
+
+baqa'
+tibqa'
+bqajt
+bqajtu
+nibqa'
+jibqa'
+ibqa'
+bqajna
+
+bdejt
+jibdew
+beda
+tibdew
+tibda
+nibdew
+bdejtu
+bdew
+jibda
+bdiet
+ibda
+bdejna
+
+blajtu
+jibla'
+
+bnejt
+jibnu
+bena
+tibnu
+nibnu
+ibnu
+nibni
+jibni
+bniet
+ibni
+
+beżaq
+beżqu
+
+bidlu
+
+nbusu
+nbus
+biesu
+
+drajt
+jidraw
+
+jidħku
+tidħku
+daħku
+jidħak
+
+dħalt
+jidħlu
+daħal
+tidħlu
+tidħol
+nidħlu
+dħaltu
+nidħol
+daħlu
+jidħol
+daħlet
+idħol
+dħalna
+
+dnibt
+dineb
+tidinbu
+tidneb
+nidinbu
+dinbu
+jidneb
+
+emmint
+jemmnu
+emmen
+temmnu
+temmen
+nemmnu
+emmnu
+emmintu
+nemmen
+jemmen
+emmnet
+emminna
+
+jifhmu
+fehem
+tifhmu
+tifhem
+fhimtu
+nifhem
+fehmu
+jifhem
+ifhem
+fhimna
