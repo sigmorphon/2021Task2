@@ -66,6 +66,24 @@ Next, we compute the true positives of all found clusters against this paradigm;
 
 The evaluation will be done with the `eval.py` script [here](https://github.com/sigmorphon/2021Task2/blob/master/evaluate/eval.py)
 
+## System Submission
+
+The deadline for submission is *May 1, 2021*.
+
+A system submission for a given language should entail a clustering of all tokens in the respective language's [bible corpus](https://github.com/sigmorphon/2021Task2/blob/master/data/test_langs) that we provided. Submissions should be made in the format specified in the [Output Format section](#Output-Format).
+
+Please send all your system outputs to adam[dot]wiemerslage[at]colorado[dot]edu. The subject of your email should be "SIGMORPHON2021Task2; Shared Task Submission; <TEAM NAME>". The content of your submission email should be as follows:
+
+Line 1: Team name  
+Line 2: Names of all team members  
+Line 3: Language names for all languages you are sending submissions for in order of your choice (we will use that to double-check that we got all files you intended to send)  
+Line 4 [optional]: A link to a GitHub repository with code that can be used to reproduce your results. This is not required in order to participate in the shared task but is strongly encouraged, and may result in your system being built upon (and cited!) in future iterations of the shared task.
+
+Please attach all output files to your email as a single zip file, named after your team, e.g., "CUBoulder.zip". Within that zip file, the individual files should be named
+ "<LANGUAGE>.results.<VERSION>". The language name should be the same as in the corresponding test corpora names. For example, `English.results.1`.
+
+ The version number is in case you want to submit the outputs of multiple systems; it should be a single-digit.
+
 ## Baseline
 We will compare submissions against a very basic baseline that functions as follows:
 Cluster all words together which share a common substring of length `n`, removing any duplicate paradigms that this creates. `n` is a tunable hyperparameter that is chosen using the development languages.
@@ -77,9 +95,9 @@ There are two bonus tasks: *cell clustering*, that is, additionally sorting foun
 We strongly encourage participants to submit their code to us along with their system descriptions. The code will be provided to participants of the next years' shared task, who will be working on the next stage: Paradigm Cell Clustering.
 
 ## Timeline
-- March 1, 2021: Dev Data released.
-- March 1, 2021: Baseline code and results released.
-- April 17, 2021: Test Data released.
+- <s>March 1, 2021: Dev Data released.</s>
+- <s>March 1, 2021: Baseline code and results released.</s>
+- <s>April 17, 2021: Test Data released.</s>
 - May 1, 2021: Participants' submissions due.
 - May 8, 2021: Participants' draft system description papers due.
 - May 15, 2021: Participants' camera-ready system description papers due.
@@ -97,7 +115,7 @@ We strongly encourage participants to submit their code to us along with their s
 
 
 ## Contact
-Please contact us with any questions at adam.wiemerslage@colorado.edu
+Please contact us with any questions at adam[dot]wiemerslage[at]colorado[dot]edu
 
 # This repository
 
