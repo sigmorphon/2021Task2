@@ -68,7 +68,7 @@ The evaluation will be done with the `eval.py` script [here](https://github.com/
 
 ## System Submission
 
-The deadline for submission is **May 1, 2021**.
+The deadline for submission is **May 8, 2021**.
 
 A system submission for a given language should entail a clustering of all tokens in the respective language's [bible corpus](https://github.com/sigmorphon/2021Task2/blob/master/data/test_langs) that we provided. Submissions should be made in the format specified in the [Output Format section](#Output-Format).
 
