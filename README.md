@@ -98,9 +98,9 @@ We strongly encourage participants to submit their code to us along with their s
 - <s>March 1, 2021: Dev Data released.</s>
 - <s>March 1, 2021: Baseline code and results released.</s>
 - <s>April 17, 2021: Test Data released.</s>
-- May 8, 2021: Participants' submissions due.
-- May 15, 2021: Participants' draft system description papers due.
-- May 22, 2021: Participants' camera-ready system description papers due.
+- <s>May 8, 2021: Participants' submissions due.</s>
+- May 22, 2021: Participants' draft system description papers due.
+- May 29, 2021: Participants' camera-ready system description papers due.
 
 ## Organizers
 
